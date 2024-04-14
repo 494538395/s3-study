@@ -68,3 +68,8 @@ func main() {
 	FileGet(BUCKET_NAME, "图片.jpeg", "./minio/download/图片.jpeg")
 }
 ```
+
+# 参考文档
+
+- [Minio官方中文文档](https://www.minio.org.cn/docs/minio/container/index.html)
+- [Minio快速入门](https://juejin.cn/post/7001676085087698974)
